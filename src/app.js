@@ -7,7 +7,7 @@ import {LoadingBar} from "./LoadingBar";
 import {RGBELoader} from "three/examples/jsm/loaders/RGBELoader";
 import veniceSunset from '../assets/venice_sunset_1k.hdr'
 
-import officeChairGlb from "../assets/office-chair.glb"
+import officeChairGlb from "../assets/Room #1.glb"
 
 class App {
   constructor() {
